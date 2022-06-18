@@ -1,7 +1,7 @@
 Christopher Ly
 ------------
 
-Hi, I'm Chris. 😁 I'm a Software Developer currently looking for my next opportunity after a career break for personal reasons. Previously I worked at [Spektrix](https://www.spektrix.com/en-gb/), developing features for the SaaS platform and playing a part in moving the software from a dataentre to the cloud platform Azure.
+Hi, I'm Christopher (Chris is fine). 😁 I'm a Software Developer currently looking for my next opportunity after a career break for personal reasons. Previously I worked at [Spektrix](https://www.spektrix.com/en-gb/), developing features for the SaaS platform and playing a part in moving the software from a dataentre to the cloud platform Azure.
 
 About Me
 ------------
