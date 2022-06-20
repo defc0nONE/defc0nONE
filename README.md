@@ -6,6 +6,6 @@ Hi, I'm Christopher (Chris is fine). 😁 I'm a Software Developer currently loo
 About Me
 ------------
 
-- 🛠️ I'm currently working through the [Full Stack Open](https://fullstackopen.com/en/) course to brush up on my skills and learn modern web technologies such as React
-- 📝 What I want to learn next: Getting a better understanding of cloud engineering -  My favourite part about my previous role was the exposure of moving our infrastructure to Azure and I would like to explore that further.
+- 🛠️ I'm currently working through the [Cloud Resume Challenge]([https://fullstackopen.com/en/](https://cloudresumechallenge.dev/)) course to brush up on my skills and become more familiar with various aspects of AWS that I haven't touched before
+- 📝 What I want to learn next: Getting a better understanding of React/Vue - Frontend is one of my weaker aspects and I haven't had an opportunity to dive deep into a framework, this is something I'd like to explore in the future
 - 🙋 Pronouns: he/him/they
