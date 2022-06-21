@@ -9,3 +9,4 @@ About Me
 - 🛠️ I'm currently working through the [Cloud Resume Challenge]([https://fullstackopen.com/en/](https://cloudresumechallenge.dev/)) course to brush up on my skills and become more familiar with various aspects of AWS that I haven't touched before
 - 📝 What I want to learn next: Getting a better understanding of React/Vue - Frontend is one of my weaker aspects and I haven't had an opportunity to dive deep into a framework, this is something I'd like to explore in the future
 - 🙋 Pronouns: he/him/they
+- 📬 How to reach me: hello@{fullname}.dev
