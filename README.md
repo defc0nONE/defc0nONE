@@ -6,7 +6,6 @@ Hi, I'm Christopher (Chris is fine). 😁 I'm a Software Developer at [Methods](
 About Me
 ------------
 
-- 🛠️ I'm currently studying towards AZ-900 credentials
 - 📝 What I want to learn next: Getting a better understanding of React/Vue - Frontend is one of my weaker aspects and I haven't had an opportunity to dive deep into a framework, this is something I'd like to explore in the future
 - 🙋 Pronouns: he/him/they
 - 📬 How to reach me: hello@{fullname}.dev
