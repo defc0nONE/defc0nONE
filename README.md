@@ -6,6 +6,6 @@ hi, i'm chris. i'm a software developer currently working at a consultancy. i've
 About Me
 ------------
 
-- 📝 What I'm currently working on: TypeScript, using cloud tools (Azure/AWS)
+- 📝 What I'm currently working on: JavaScript/Node.JS (and TypeScript), using cloud tools (Azure/AWS)
 - 🙋 Pronouns: he/him/they
 - 📬 How to reach me: hello@{fullname}.dev
